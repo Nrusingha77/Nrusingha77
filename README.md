@@ -1,87 +1,76 @@
-<!-- TITLE SECTION -->
-<h1 align="center">👋 Hello, I'm <strong>Nrusingha Prasada Khadanga</strong></h1>
+<!-- Banner & Intro -->
+<h1 align="center">Hi 👋, I'm <strong>Nrusingha Prasada Khadanga</strong></h1>
 <p align="center">
-  <strong>Full-Stack Software Engineer | Java & MERN Developer | AI/ML Enthusiast</strong>
+  <strong>Software Engineer | Full Stack Developer | AI & ML Enthusiast</strong>
 </p>
 
-<!-- BADGES -->
 <p align="center">
-  <a href="https://github.com/Nrusingha77">
-    <img src="https://img.shields.io/github/followers/Nrusingha77?label=Follow%20Me&style=social" alt="GitHub Followers">
-  </a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://komarev.com/ghpvc/?username=Nrusingha77&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
+<!-- About Section -->
 ## 👨‍💻 About Me
-I’m a passionate **Final-Year B.Tech CSE (AIML)** student and software developer building scalable, secure, and efficient applications.  
-I love to work on real-world problems using **full-stack technologies**, **AI/ML integrations**, and modern best practices. I’m always learning and looking for impactful collaboration opportunities. 1
+I am a passionate **B.Tech CSE (AIML)** student and professional developer building secure, scalable, and high-impact applications. I enjoy working on both frontend and backend systems, and I'm especially keen on integrating intelligent features using AI/ML.  
+I focus on writing clean, maintainable code and constantly improving my craft. 1
 
 ---
 
+<!-- Skills -->
 ## 🛠️ Tech Stack
 
-### 🔧 Languages
-Java • JavaScript • Python • TypeScript
+### 🔹 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🚀 Frameworks & Libraries
-React • Node.js • Express • Spring Boot • FastAPI
+### 🔹 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases
-MySQL • MongoDB
+### 🔹 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🔌 Tools & Platforms
-Git • GitHub • Docker • Postman • Tailwind CSS
-
----
-
-## 💼 Experience Highlights
-**Java Full-Stack Intern — Millennium Software Solutions**  
-- Built secure REST APIs with Spring Boot + Security + JWT  
-- Created dynamic React frontends with Tailwind CSS  
-- Designed complete Online Banking System modules
-
-*(More details in resume & portfolio)*
+### 🔹 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## ⭐ Featured Projects
+<!-- Featured Projects -->
+## 🚀 Featured Projects
 
 ### 🛒 **E-Commerce Store**
 🔗 https://github.com/Nrusingha77/E-commerce  
-A responsive store with product browsing, cart & checkout flow built with React and Tailwind.
+A full-featured e-commerce frontend with dynamic shopping flows and responsive design.
 
 ---
 
-### 🔐 **PII Detector (AI-Powered)**
+### 🔐 **PII Detector (AI Powered)**
 🔗 https://github.com/Nrusingha77/PII-Detector  
-NLP-based PII detection & redaction tool with live previews & document export — React + Node + Python FastAPI.
+Intelligent NLP system to detect & redact sensitive personal information from documents.
 
 ---
 
 ### 🏦 **Bank Management System**
 🔗 https://github.com/Nrusingha77/Bank_Management_fullstack  
-Secure banking app with authentication, transactions, and dashboard views — Spring Boot + React.
+Secure online banking with authentication, transactions, and dashboard views.
 
 ---
 
 ### 📈 **Crypto Trading Platform**
 🔗 https://github.com/Nrusingha77/Trading  
-Real-time trading frontend + wallet integrations with AI chatbot support.
+Advanced crypto trading platform with real-time features and integrated AI assistance.
 
----
 
-## 🎓 Education
-🎓 **GIET University** – B.Tech in CSE (AIML)  
-📍 India
 
----
-
-## 📫 Connect with Me
+<!-- Contact -->
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:khadanganrusingha@gmail.com">
@@ -97,11 +86,4 @@ Real-time trading frontend + wallet integrations with AI chatbot support.
 
 ---
 
-## 💡 Fun & Interests
-✨ Always learning new tech  
-📚 Reading FinTech & AI papers  
-🎮 Coffee lover ☕ • Music 🎧
-
----
-
-> “Code with passion, collaborate with purpose.” 🚀
+> **“Build stuff that matters. Learn by doing. Keep improving.”** 🚀
