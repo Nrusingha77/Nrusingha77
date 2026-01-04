@@ -13,7 +13,7 @@
 <!-- About Section -->
 ## 👨‍💻 About Me
 I am a passionate **B.Tech CSE (AIML)** student and professional developer building secure, scalable, and high-impact applications. I enjoy working on both frontend and backend systems, and I'm especially keen on integrating intelligent features using AI/ML.  
-I focus on writing clean, maintainable code and constantly improving my craft. 1
+I focus on writing clean, maintainable code and constantly improving my craft.
 
 ---
 
